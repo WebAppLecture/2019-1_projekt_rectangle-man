@@ -1,0 +1,7 @@
+/* 
+	Ein simpler Rahmen um das Spiel, wird noch seperat verwendet, da hier zusätzliche Steuerelemente für Mobilgeräte getestet werden sollen.
+	Diese sollen auf der restlichen Seite nicht angezeigt werden.
+ */
+#mainframe{
+    border: 2px solid black;
+}

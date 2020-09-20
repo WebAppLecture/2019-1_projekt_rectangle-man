@@ -1,0 +1,6 @@
+*.php
+DB/
+.vscode
+.htaccess
+forum/
+.DS_Store
